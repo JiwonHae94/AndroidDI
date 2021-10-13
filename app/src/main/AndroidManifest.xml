@@ -9,6 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ExampleDependencyInejectoin">
+
+        <activity
+            android:name=".koin.KoinActivity"
+            android:exported="true"
+            android:label="@string/title_activity_koin_activity"
+            android:theme="@style/Theme.ExampleDependencyInejectoin.NoActionBar" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

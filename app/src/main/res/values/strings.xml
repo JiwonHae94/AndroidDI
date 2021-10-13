@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ExampleDependencyInejectoin</string>
+    <string name="app_name">ExampleDependencyInejection</string>
+    <string name="title_activity_koin_activity">KoinActivity</string>
 </resources>
